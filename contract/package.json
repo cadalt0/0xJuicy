@@ -1,0 +1,20 @@
+{
+  "name": "lending-vault",
+  "version": "1.0.0",
+  "description": "ETH-collateralized lending contract with USDC repayment",
+  "scripts": {
+    "test": "npx hardhat test",
+    "deploy": "node scripts/deploy.js"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.4",
+    "ethereum-waffle": "^3.4.0",
+    "ethers": "^5.8.0",
+    "hardhat": "^2.17.0"
+  },
+  "dependencies": {
+    "dotenv": "^17.0.1"
+  }
+}
