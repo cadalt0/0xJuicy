@@ -5,7 +5,7 @@ Juicy is a next-generation platform designed to make USDC truly universal, enabl
 **Contract Addresses (Testnets):**
 
 - Ethereum Sepolia: [0x17e2F1adf135088D7Af12B464641c2fa4e907E6e](https://sepolia.etherscan.io/address/0x17e2F1adf135088D7Af12B464641c2fa4e907E6e)
-- Linea Sepolia: [0xABb830eD6A9258173e0244850A85bda280405062](https://sepolia.lineascan.build/address/0xABb830eD6A9258173e0244850A85bda280405062)---
+- Linea Sepolia: [0xABb830eD6A9258173e0244850A85bda280405062](https://sepolia.lineascan.build/address/0xABb830eD6A9258173e0244850A85bda280405062)
 
 ## Key Features
 
